@@ -1,0 +1,2 @@
+# R5T.T0069
+IServiceProvider, IServiceCollection, and -Operator extension method bases.
