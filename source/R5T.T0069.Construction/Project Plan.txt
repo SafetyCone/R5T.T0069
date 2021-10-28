@@ -1,0 +1,3 @@
+R5T.T0069.Construction - Construction project for IServiceProvider, IServiceCollection, and -Operator extension method bases..
+
+GOALS:
